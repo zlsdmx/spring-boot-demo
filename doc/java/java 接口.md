@@ -1,11 +1,11 @@
 # 权限关系
 
 ```
-					同类   同包    子类     其他包
-public 			 √     √       √        √ 
-protected			 √     √       √ 
-默认		        √     √ 
-private.          √ 
+			同类    同包    子类     其他包
+public 			 √    	 √       √       √ 
+protected			 √    	 √       √ 
+默认		       √       √ 
+private.         	 √ 
 
 ```
 # 继承与接口
